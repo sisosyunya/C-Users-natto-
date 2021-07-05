@@ -1,0 +1,64 @@
+@import url(sanitize.css);
+body {
+  font-family:sans serif;
+    background-color: white;
+}
+
+.container {
+    padding: 0;
+    text-align:center;
+
+}
+
+.header {
+    width: 100%;
+    background-color:greenyellow;
+}
+
+h1 {
+    padding: 10px 10px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h2 {
+    padding: 10px 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.todolist_unit {
+    margin: 0px 0px 0px 0px;
+    background-color: white;
+}
+
+p {
+    margin: 10px 5px;
+    font-size: 20px;
+}
+
+.custom-control-input {
+    margin: 20px 20px !important;
+    padding: 20px 20px !important;
+    transform: scale(1.7)!important;
+    width:200px;
+}
+
+hr {
+    margin: 0px 0px 0px 0px;
+}
+
+button {
+    margin: 10px 5px;
+    padding: 10px 10px;
+    background-color: black;
+    color: #fff;
+    font-size: 18px;
+}
+
+.form-control {
+    font-size: 18px;
+    margin: 10px 0px 5px 5px;
+    padding: 22px 10px;
+    border-radius: 10px;
+}
